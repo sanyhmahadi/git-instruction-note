@@ -1,0 +1,35 @@
+git init
+git config --global user.name "Sany"
+git config --global user.email "sanykhan227@gmail.com" 
+[Check which account login now:- git list; for clear screen:- clear;Checking status:- git status]
+git log--oneline[commit details]
+git checkout 'akta serial number thakbe'[To go old stage]
+git rm 'file name'[For delete something]
+git reset HEAD 'file name'
+git clone 'directory'
+git branch [ki ki branch ase ta janar jnnw]
+git checkout 'branch name'[for go another branch]
+git checkout -b 'branchname'[create new branch]
+git merge 'brach name'[ak brach thake onno branch a file adan prodan ar jnnw]
+git brach -D 'branch name'[present branch ar oi branch ta dlt hobe]
+git stash [taproray dlt code from code file]
+git stash pop [dlt kora code ar part ta visiable hobe]
+git stast list [sob stast ar list dekhabe]
+
+
+
+
+git init
+git add .
+git commit -m "commit something "
+git branch -M main
+git remote add origin https://github.com/sanyhmahadi/literate-waddle.git
+git push -u origin main
+
+
+git add.
+
+git commit -m "commit something "
+
+git push
+
