@@ -18,7 +18,7 @@ git stast list [sob stast ar list dekhabe]
 
 
 
-
+             ****After creating Repo****
 git init
 git add .
 git commit -m "commit something "
@@ -27,6 +27,7 @@ git remote add origin https://github.com/sanyhmahadi/literate-waddle.git
 git push -u origin main
 
 
+         *****When want to change something*****
 git add.
 
 git commit -m "commit something "
